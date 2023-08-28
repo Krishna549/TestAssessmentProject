@@ -1,5 +1,5 @@
 # TestAssessmentProject
 
-All test cases were included in RequestTest class with TestNG framework
+All test cases were included in GetReq class with TestNG framework
 Test1 contains reusable methods fo REST ASSURED api methods
-Execute all tests from the RequestTest class
+Execute all tests from the GetReq class
